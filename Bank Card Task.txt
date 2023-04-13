@@ -1,0 +1,13 @@
+		(1) Identify if the Bank Card Number is Correct and belongs to which entity ( Uipath Project - Data Manipulation )
+				
+				Credit card numbers follow certain patterns. 
+					A credit card number must have between 13 and 16 digits. It must start with:
+ 
+
+							4 for Visa cards
+							5 for Master cards
+							37 for American Express cards
+							6 for Discovery cards
+							
+							
+				output to user card entity type or if it's an invalid card.
